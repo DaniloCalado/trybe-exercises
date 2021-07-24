@@ -1,0 +1,8 @@
+
+ol {
+    background-color: yellow;
+}
+
+ol li:nth-child(odd){
+	color: green;
+}
