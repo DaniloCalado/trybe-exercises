@@ -1,18 +1,9 @@
-exercicios 3
+let num = 5;
 
-let n1 = 5;
-let n2 = 6;
-let n3= 10;
-
-if (n1>n2 && n3 ){
-console.log(n1)
-} else if (n2>n1 && n3 ){
-    console.log (n2)
-} else if (n3>n1 && n2 ){
-    console.log(n3)
+if(num > 0){
+    console.log("positive")
+} else if (a < 0){
+    console,log("negative")
+} else {
+    console.log("0")
 }
-
-
-
-
-
