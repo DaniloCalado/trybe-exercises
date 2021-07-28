@@ -1,3 +1,5 @@
+exercicios 3
+
 let n1 = 5;
 let n2 = 6;
 let n3= 10;
