@@ -1,9 +1,11 @@
-let num = 5;
+let a = 60;
+let b = 60;
+let c = -220;
 
-if(num > 0){
-    console.log("positive")
-} else if (a < 0){
-    console,log("negative")
+if (a+b+c == 180 ){
+    console.log("true")
+} else if (a+b+c < 0){
+    console.log("ERRO")
 } else {
-    console.log("0")
+    console.log("False")
 }
